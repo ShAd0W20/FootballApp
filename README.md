@@ -46,6 +46,11 @@
 
 This project is a JavaFX football app that allows you to manage players, teams and player positions with CRUD operations.
 
+[![Product Name Screen Shot][product-screenshot]](https://imgur.com/BnYqyQm.png)
+<br/>
+<br/>
+[![Product Name Screen Shot 2][product-screenshot-2]](https://imgur.com/8qlb00H.png)
+
 # ADVERTISING
 
 Do not use this project for porduction or any real world application. This project have been made for educational purposes only.
@@ -132,3 +137,5 @@ Project Link: [https://github.com/ShAd0W20/FootballApp](https://github.com/ShAd0
 [mysql]: https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white
 [mysql-url]: https://www.mysql.com
 [maven]: https://img.shields.io/badge/apache%20maven-C71A36?style=for-the-badge&logo=apache%20maven&logoColor=white
+[product-screenshot]: https://imgur.com/BnYqyQm.png
+[product-screenshot-2]: https://imgur.com/8qlb00H.png
