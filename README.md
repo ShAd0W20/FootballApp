@@ -10,10 +10,6 @@
 <h3 align="center">JavaFX football app</h3>
 
   <p align="center">
-    A JavaFX football app
-    <br />
-    <a href="https://github.com/ShAd0W20/FootballApp"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/ShAd0W20/FootballApp">View Demo</a>
     ·
