@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ShAd0W20/DAM2_JavaFX">
+  <a href="https://github.com/ShAd0W20/FootballApp">
     <img src="https://avatars.githubusercontent.com/u/43751763?v=4" alt="Logo" width="80" height="80">
   </a>
 
@@ -12,14 +12,14 @@
   <p align="center">
     A JavaFX football app
     <br />
-    <a href="https://github.com/ShAd0W20/DAM2_JavaFX"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ShAd0W20/FootballApp"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ShAd0W20/DAM2_JavaFX">View Demo</a>
+    <a href="https://github.com/ShAd0W20/FootballApp">View Demo</a>
     ·
-    <a href="https://github.com/ShAd0W20/DAM2_JavaFX/issues">Report Bug</a>
+    <a href="https://github.com/ShAd0W20/FootballApp/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ShAd0W20/DAM2_JavaFX/issues">Request Feature</a>
+    <a href="https://github.com/ShAd0W20/FootballApp/issues">Request Feature</a>
   </p>
 </div>
 
@@ -58,9 +58,9 @@ Do not use this project for porduction or any real world application. This proje
 
 ### Built With
 
-- [![Docker][Docker]][Docker-url]
-- [![MySQL][MySQL]][MySQL-url]
-- [![Maven][Maven]][Maven]
+- [![Docker][docker]][docker-url]
+- [![MySQL][mysql]][mysql-url]
+- [![Maven][maven]][maven]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,27 +84,29 @@ Before you begin, ensure you have met the following requirements in order to set
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/ShAd0W20/DAM2_JavaFX.git
+   git clone https://github.com/ShAd0W20/FootballApp.git
    ```
 
 2. Install Maven dependencies
 
 3. Enter your database settings in a `.env` file in the root directory
 
-    ```sh
-    DB_PORT=
-    DB_NAME=
-    DB_USER=
-    DB_PASSWORD=
-    DB_STRING_CONNECTION=
-    APP_NAME=
-    ```
+   ```sh
+   DB_PORT=
+   DB_NAME=
+   DB_USER=
+   DB_PASSWORD=
+   DB_STRING_CONNECTION=
+   APP_NAME=
+   ```
 
 4. Run docker-compose with the .env file
 
-    ```sh
-    docker-compose --env-file .env up -d
-    ```
+   ```sh
+   docker-compose --env-file .env up -d
+   ```
+
+5. Go to `localhost:8080` and import the provided SQL file
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,14 +124,15 @@ Distributed under the GNU General Public License v3.0. See `LICENSE.txt` in the 
 
 shad0wstv - contact@shad0wstv.net
 
-Project Link: [https://github.com/ShAd0W20/DAM2_JavaFX](https://github.com/ShAd0W20/DAM2_JavaFX)
+Project Link: [https://github.com/ShAd0W20/FootballApp](https://github.com/ShAd0W20/FootballApp)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[Docker]: https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-[Docker-url]: https://www.docker.com/
-[MySQL]: https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-[MySQL-url]: https://www.mysql.com
-[Maven]: https://img.shields.io/badge/apache%20maven-C71A36?style=for-the-badge&logo=apache%20maven&logoColor=white
+
+[docker]: https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[docker-url]: https://www.docker.com/
+[mysql]: https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[mysql-url]: https://www.mysql.com
+[maven]: https://img.shields.io/badge/apache%20maven-C71A36?style=for-the-badge&logo=apache%20maven&logoColor=white
