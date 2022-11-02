@@ -51,7 +51,7 @@ This project is a JavaFX football app that allows you to manage players, teams a
 <br/>
 [![Product Name Screen Shot 2][product-screenshot-2]](https://imgur.com/8qlb00H.png)
 
-# ADVERTISING
+# ATTENTION
 
 Do not use this project for porduction or any real world application. This project have been made for educational purposes only.
 
