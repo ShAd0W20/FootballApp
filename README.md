@@ -53,7 +53,7 @@ This project is a JavaFX football app that allows you to manage players, teams a
 
 # ATTENTION
 
-Do not use this project for porduction or any real world application. This project have been made for educational purposes only.
+Do not use this project for production or any real-world applications. This project is for educational purposes only and may contain security issues as well as performance issues.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
